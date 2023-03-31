@@ -1,0 +1,9 @@
+.card {
+  max-width: 100%;
+  margin: 0 auto;
+  background-color: #1f2937;
+}
+.card__infos img {
+  display: block;
+  margin: 0 auto;
+}
